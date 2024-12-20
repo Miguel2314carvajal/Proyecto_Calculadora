@@ -37,4 +37,40 @@ Este proyecto es una aplicación Android desarrollada en **Kotlin** que implemen
    - El usuario puede limpiar la pantalla en cualquier momento con el botón "C". 🧹
 
 
-<img src="https://github.com/user-attachments/assets/339c9401-af9a-4bbc-9faf-e761105fc11f" width="300"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/339c9401-af9a-4bbc-9faf-e761105fc11f" width="300"/>
+</p>
+
+
+# 📋 División de Tareas para la App
+
+## 👩‍💻 **Mónica Jaña**
+- **Diseño de la interfaz de usuario (UI)**:
+  - Diseñar y maquetar la pantalla principal de la calculadora en XML.
+  - Configurar los botones de la calculadora y la disposición del `TextView`.
+  - Implementar la retroalimentación visual para los botones (colores, tamaños, etc.).
+  - Verificar que la interfaz sea responsiva en diferentes tamaños de pantalla.
+  
+## 👨‍💻 **Shamyr Quishpe**
+- **Implementación de las operaciones básicas**:
+  - Programar las funciones matemáticas básicas (suma, resta, multiplicación, división).
+  - Implementar la lógica para la entrada de números y el cálculo de resultados.
+  - Asegurar que la operación se ejecute correctamente cuando el usuario presiona "igual (=)".
+  - Manejar la validación para evitar errores como la división por cero.
+
+## 👨‍💻 **Miguel Carvajal**
+- **Implementación de funciones trigonométricas**:
+  - Implementar las funciones trigonométricas (`sin`, `cos`, `tan`) utilizando la librería `Math` de Kotlin.
+  - Asegurar que las funciones trigonométricas funcionen correctamente con valores en grados y convertirlos a radianes.
+  - Gestionar los casos de error para valores indefinidos (como el caso de la tangente cuando el valor del coseno es 0).
+  
+## 👨‍💻 **Freddy Villavicencio**
+- **Gestión de estado y lógica de la calculadora**:
+  - Programar la lógica para almacenar y manejar el primer operando y la operación seleccionada.
+  - Asegurarse de que el valor de la entrada se resetea correctamente al realizar una operación o al presionar "C".
+  - Implementar el manejo de la entrada del usuario, asegurándose de que solo se pueda ingresar un número o resultado válido.
+  
+## 🛠️ **Generación del APK**:
+- **Responsable**: Todo el equipo
+  - Al finalizar las implementaciones y pruebas, generar la APK.
+  - Asegurarse de que la APK esté optimizada para su distribución.
