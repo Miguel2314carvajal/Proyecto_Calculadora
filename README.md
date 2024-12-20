@@ -1,3 +1,12 @@
+
+Integrantes: - Mónica Jaña
+             - Shamyr Quishpe
+             - Miguel Carvajal
+             - Freddy Villavicencio
+             - Scarleth Luna
+             - David Vela
+             - Cristian Paredes
+             
 # 📱 Calculadora Básica en Kotlin para Android
 
 Este proyecto es una aplicación Android desarrollada en **Kotlin** que implementa una **calculadora básica** con operaciones matemáticas estándar y funciones trigonométricas. A continuación, se proporciona una explicación detallada del código de la `MainActivity`.
